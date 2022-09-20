@@ -1,30 +1,30 @@
 export const data = [
     {
-        Symbol: "😁",
+        symbol: "😁",
         name: "cara alegre",
         keywords: "smiling face happy"
     },{
-        Symbol: "❤️",
+        symbol: "❤️",
         name: "corazon",
-        eywords: "heart love"
+        keywords: "heart love"
     },{
-        Symbol: "😘",
+        symbol: "😘",
         name: "beso",
         keywords: "kiss"
     },{
-        Symbol: "😂",
+        symbol: "😂",
         name: "cara risa",
         keywords: "smiling face laugh"  
     },{
-        Symbol: "😔",
+        symbol: "😔",
         name: "cara triste",
         keywords: "sad face"  
     },{
-        Symbol: "😍",
+        symbol: "😍",
         name: "ojos corazon",
         keywords: "love face eye"  
     },{
-        Symbol: "😡",
+        symbol: "😡",
         name: "cara enojada",
         keywords: "mad face"  
     }
